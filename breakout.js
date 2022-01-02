@@ -1,5 +1,5 @@
 // Game objects are global variables so that many functions can access them
-let player, ball, violetBricks, yellowBricks, redBricks, cursors;
+let player, ball, violetBricks, yellowBricks, redBricks, cursors;123
 // Variable to determine if we started playing
 let gameStarted = false;
 // Add global text objects
